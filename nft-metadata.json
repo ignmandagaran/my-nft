@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Height",
+      "value": "Tall"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Green"
+    }
+  ],
+  "description": "A tall green-eyed developer with a passion for building things.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmfVrF9YCqb3GZdCyz9hheacWSdqBENRgbSntLPzaM5LnP",
+  "name": "nachogaran.eth"
+}
