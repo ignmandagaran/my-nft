@@ -1,7 +1,7 @@
 # my-nft
-First experience creating a smart contract and minting a NFT on Etherium
+First experience creating a smart contract and minting a NFT on Ethereum blockchain
 
-This was done following: [HOW TO MINT AN NFT](https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/) & [HOW TO MINT AN NFT](https://ethereum.org/en/developers/tutorials/how-to-mint-an-nft/)
+This was done following: [HOW TO WRITE & DEPLOY AN NFT](https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/) & [HOW TO MINT AN NFT](https://ethereum.org/en/developers/tutorials/how-to-mint-an-nft/) from the [ethereum.org](https://ethereum.org/en/)
 
 Setup
 
